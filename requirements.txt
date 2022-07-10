@@ -4,7 +4,6 @@ nbinteract
 pandas
 sklearn
 seaborn
-math
 matplotlib
 scipy
 statsmodels
